@@ -1,0 +1,27 @@
+.profile {
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+}
+
+.container {
+  background-color: black;
+  width: 200px;
+  height: 200px;
+  border-radius: 10px;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+h1,
+h3,
+div {
+  color: white;
+}
+
+.buttons {
+  display: flex;
+}
