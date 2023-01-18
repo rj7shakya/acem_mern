@@ -1,0 +1,19 @@
+.small {
+  width: 200px;
+  height: 200px;
+  background-color: red;
+
+  margin: 10px;
+}
+
+.big {
+  width: 1000px;
+  height: 1000px;
+  background-color: yellow;
+
+  display: flex;
+  /* justify-content: center;
+  align-items: center; */
+  flex-direction: column;
+  justify-content: space-around;
+}
